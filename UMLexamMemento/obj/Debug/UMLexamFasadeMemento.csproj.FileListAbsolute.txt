@@ -1,0 +1,11 @@
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\bin\Debug\UMLexamMemento.exe.config
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\bin\Debug\UMLexamMemento.exe
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\bin\Debug\UMLexamMemento.pdb
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\obj\Debug\UMLexamFasadeMemento.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\obj\Debug\UMLexamFasadeMemento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\obj\Debug\UMLexamMemento.Properties.Resources.resources
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\obj\Debug\UMLexamFasadeMemento.csproj.GenerateResource.cache
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\obj\Debug\UMLexamFasadeMemento.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\obj\Debug\UMLexamMemento.exe
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\obj\Debug\UMLexamMemento.pdb
+C:\Users\Maksim\source\repos\UMLexamMemento\UMLexamMemento\obj\Debug\UMLexamMemento.Form1.resources
